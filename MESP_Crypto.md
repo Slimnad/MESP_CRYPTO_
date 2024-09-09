@@ -27,11 +27,11 @@ Utilisation de IV statiques présente plusieurs risques tel que les attaques par
 
 A l'aide du script en annexe.
 
-![Alt text]()
+![Alt text](https://github.com/Slimnad/MESP_CRYPTO_/blob/main/cryptage_%26_dechiffrement_message.png)
 
 4. Recevoir et déchiffrer le message
 
-![Alt text]()
+![Alt text](https://github.com/Slimnad/MESP_CRYPTO_/blob/main/resultat_dechiffrement.png)
 
 5. Comment pourrait-on s'assurer de l'intégrité du message et de l'authenticité du destinataire ?
 En effectuant un chiffrement clé public / privée pour l'authenticité du destinataire et pour vérifier l'intégrité, le message peut être accompagné d'un haché ou d'une signature numérique.
