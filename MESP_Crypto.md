@@ -54,4 +54,5 @@ Quel était le message transmis ?
 
 Le message transmis est "DES n'est plus sur de nors jours!"
 
-
+Pour voir le script : 
+https://github.com/Slimnad/MESP_CRYPTO_/blob/main/Script_brute_force9.py
