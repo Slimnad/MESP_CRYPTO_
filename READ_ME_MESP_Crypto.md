@@ -17,6 +17,7 @@
 1. Grâce à un script, générer une clé de chiffrement AES256 ainsi que les IV avec le destinataire. Partagez là avec votre destinataire en essayant de préserver sa confidentialité.
 
 Voir Script clé de chiffrement AES256
+https://github.com/Slimnad/MESP_CRYPTO_/blob/main/Script_cl%C3%A9_chiffrementAES256.py
 
 2. Comment générer une clé de chiffrement de manière sure ? Quel est le risque si les IV sont toujours les mêmes ?
 
